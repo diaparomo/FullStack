@@ -5,6 +5,7 @@ def generar_triangulo():
             print("Por favor, introduce un número mayor que 0.")
             return
 
+
         for i in range(1, filas + 1):
             print("*" * i)
     except ValueError:

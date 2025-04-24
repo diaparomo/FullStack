@@ -6,6 +6,7 @@ def calculadora_basica():
     print("3. Multiplicar")
     print("4. Dividir")
 
+
     try:
         opcion = int(input("Elige una operación (1-4): "))
         if opcion not in [1, 2, 3, 4]:

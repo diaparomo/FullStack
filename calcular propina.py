@@ -5,6 +5,7 @@ def calcular_propina():
             print("El monto de la cuenta no puede ser negativo.")
             return
 
+
         porcentaje_propina = float(input("Introduce el porcentaje de propina que deseas dejar (por ejemplo, 10, 15, 20): "))
         if porcentaje_propina < 0:
             print("El porcentaje de propina no puede ser negativo.")

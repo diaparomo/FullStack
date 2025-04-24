@@ -1,6 +1,5 @@
 import random
 
-
 def adivinar_numero():
     numero_aleatorio = random.randint(1, 10)
     intentos = 3

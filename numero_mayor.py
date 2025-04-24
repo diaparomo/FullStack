@@ -4,6 +4,7 @@ primero = input("Ingresa Primer Numero:\t")
 segundo = input("Ingresa Segundo Numero:\t")
 #print("Tu Segundo Numero es: "+segundo)
 
+
 tercero = input("Ingresa Tercer Numero:\t")
 #print("Tu Tercer Numero es: "+tercero)
 
